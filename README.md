@@ -11,4 +11,4 @@ Pour préciser, la stack que j'utilise (dans la plupart de mes projets web) est 
 
 Après je suis également spécialisé en développement d'application avec Java (langage principal de mes cours) etc... 
 
-Si vous souhaitez en savoir davantage sur moi et mon parcours, n'hésitez pas à aller jeter un coup d'oeil sur mon --portfolio-- (lien en bio) !
+Si vous souhaitez en savoir davantage sur moi et mon parcours, n'hésitez pas à aller jeter un coup d'oeil sur mon -- portfolio -- (lien en bio) !
