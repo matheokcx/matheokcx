@@ -9,6 +9,6 @@ Pour préciser, la stack que j'utilise (dans la plupart de mes projets web) est 
 - Prisma : Un ORM* pour pouvoir effectuer des requêtes simplement sur ma base de données
 - TypeScript : Pour avoir un code plus solide avec le typage
 
-Après je suis également spécialisé en développement d'application avec Java (langage principal de mes cours) etc... 
+Après je suis également spécialisé en développement d'application avec __Java__ (langage principal de mes cours) etc... 
 
-Si vous souhaitez en savoir davantage sur moi et mon parcours, n'hésitez pas à aller jeter un coup d'oeil sur mon -- portfolio -- (lien en bio) !
+Si vous souhaitez en savoir davantage sur moi et mon parcours, n'hésitez pas à aller jeter un coup d'oeil sur mon __portfolio__ (lien en bio) !
