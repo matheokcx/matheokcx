@@ -1,4 +1,4 @@
-# Salut à tous ! 
+# About me : 
 
 Je m'appelle Mathéo, j'ai 18 ans et je suis un étudiant en informatique en 2e année de BUT Informatique. Je suis passionné de développement web depuis bientôt 3 ans et je n'ai jamais cessé d'apprendre de nouvelles choses pour devenir meilleur dans ce domaine !
 
